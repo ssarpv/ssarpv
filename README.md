@@ -24,7 +24,7 @@
 
 ## <div align=center>Contact me if you're out of your mind</div>
 
-<div align=center>http://www.sarp.codes/sites/findMe/findMe.html</div>
+<div align=center><a href="http://www.sarp.codes/sites/findMe/findMe.html">Find Me</a></div>
 
 ## <div align=center>My GitHub Stats:</div>
 
