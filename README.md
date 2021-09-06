@@ -2,7 +2,7 @@
 
 # <div align=center>A little about me</div>
 
-### <div align=center>The name's Sarp, a 9th grade student trying to survive in Turkey. </div>
+### <div align=center>The name's Sarp, a 10th grade student trying to survive in Turkey. </div>
 
 ## <div align=center>My projects</div>
 
