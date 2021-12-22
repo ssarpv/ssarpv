@@ -29,5 +29,4 @@
 ## <div align=center>My GitHub Stats:</div>
 
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=ssarpv&show_icons=true&" /></div>
-<div align=center>A+ for "AAAAA it hurts+"</div>
 <div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarpv&layout=compact" /></div>
